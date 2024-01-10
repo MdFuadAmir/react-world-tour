@@ -1,0 +1,11 @@
+.country-container{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+}
+.list{
+    color: rgb(215, 215, 238);
+}
+.flag-container{
+    width: 80px;
+}
